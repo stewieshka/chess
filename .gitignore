@@ -1,0 +1,92 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider project files
+.idea/
+
+# Rider's library folders
+.idea/
+*.sln.iml
+
+# macOS hidden files
+.DS_Store
+
+# Visual Studio temporary files
+.vs/
+.vscode/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows-specific files
+*.pdb
+*.exe
+*.dll
+*.local
+*.log
+
+# Rider
+.idea/
+
+# Other
+*.class
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.dotCover
+# (your own additional patterns)
